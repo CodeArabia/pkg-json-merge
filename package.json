@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pkg-json-merge": "^0.1.6"
+  }
+}
